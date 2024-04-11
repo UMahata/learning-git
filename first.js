@@ -4,6 +4,7 @@ var missingNum = function(nums){
     sum += nums[i];
 
   }
+  console.log('hii');
 
 
    
